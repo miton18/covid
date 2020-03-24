@@ -1,0 +1,23 @@
+{
+  "name": "covid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.mjs",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/miton18/covid.git"
+  },
+  "author": "Rémi Collignon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miton18/covid/issues"
+  },
+  "homepage": "https://github.com/miton18/covid#readme"
+}
