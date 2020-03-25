@@ -43,6 +43,8 @@ fetch('https://pomber.github.io/covid19/timeseries.json')
             country = 'Bahamas'
         } else if (country === 'The Bahamas') {
             country = 'Bahamas'
+        } else if (country === 'Diamond Princess') {
+            country = ''
         }
 
         const latlng = m.get(country)
