@@ -3167,5 +3167,10 @@ export default [
         latlng: [
             -21.1344716,55.2471226,10
         ]
+    }, {
+        name: 'The West Bank and Gaza',
+        latlng: [
+            31.9461202, 34.6667092, 9
+        ]
     }
 ]
